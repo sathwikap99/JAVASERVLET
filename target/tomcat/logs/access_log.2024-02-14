@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:16:39:21 -0600] "GET /javax-servlets HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:16:39:21 -0600] "GET /javax-servlets/ HTTP/1.1" 200 461 http-bio-8080-exec-2 8
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:16:39:24 -0600] "POST /javax-servlets/LoginServlet HTTP/1.1" 302 - http-bio-8080-exec-3 48
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:16:39:24 -0600] "GET /javax-servlets/home.html HTTP/1.1" 200 253 http-bio-8080-exec-4 1
